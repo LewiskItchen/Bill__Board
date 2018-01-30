@@ -1,0 +1,129 @@
+html {
+ overflow-x: hidden;
+}
+h1.menu {
+	font-family: segoe ui light;
+	white-space:nowrap;
+	color: #5891A7;
+	font-size: 22px;
+	position: relative;
+	top: -62px;
+	right: -30px;
+	text-decoration: none;
+}
+h2.menu {
+	font-family: segoe ui light;
+	white-space:nowrap;
+	color: #5891A7;
+	font-size: 22px;
+	position: relative;
+	top: -90px;
+	right: -200px;
+	text-decoration: none;
+}
+h3.menu {
+	font-family: segoe ui light;
+	white-space:nowrap;
+	white-space:nowrap;
+	color: #5891A7;
+	font-size: 22px;
+	position: relative;
+	top: -120px;
+	right: -430px;
+	text-decoration: none;
+}
+h4.main {
+	white-space:nowrap;
+	font-family: segoe ui light;
+	color: #5891A7;
+	font-size: 60px;
+	position: relative;
+	top: -380px;
+	right: -790px;
+}
+h5.main {
+	white-space:nowrap;
+	font-family: segoe ui light;
+	font-size: 20px;
+	position: relative;
+	top: -395px;
+	right: -930px;
+}
+h6.main {
+	position: relative;
+	white-space: nowrap;
+	font-size: 35px;
+	position: relative;
+	top:-600px;
+	right: -141px;
+	color: #5891A7;
+	font-family: segoe ui light;
+} 
+p.main {
+	position: relative;
+	white-space:nowrap;
+	font-family: segoe ui light;
+	font-size: 20px;
+	top:-692px;
+	right: -300px;
+}
+h1.lower {
+	white-space:nowrap;
+	color: #5891A7;
+	font-family: segoe ui light;
+	font-size: 60px;
+}
+h2.lower {
+	white-space:nowrap;
+	font-size: 60px;
+	color: #5891A7;
+	font-family: segoe ui light;
+}
+h3.lower {
+	white-space:nowrap;
+	font-size: 45px;
+	color: #black;
+	font-family: segoe ui light;
+}
+p.footer {
+	white-space:nowrap;
+	font-size: 12px;
+	color: #black;
+	font-family: segoe ui light;
+}
+h4.lower {
+	white-space:nowrap;
+	font-size: 20px;
+	color: #black;
+	font-family: segoe ui light;
+}
+h5.lower {
+	white-space:nowrap;
+	font-size: 20px;
+	color: #black;
+	font-family: segoe ui light;
+}
+h6.lower {
+	white-space:nowrap;
+	font-size: 20px;
+	color: #black;
+	font-family: segoe ui light;
+}
+footer {
+	 bodyscroll: no;
+}
+
+img.wrap{
+	white-space:nowrap;
+}
+#sidebar {
+	position: fixed;
+}
+#onepound {
+	position: fixed;
+}
+#middle {
+    height: 300px;
+    width: 300px;
+}
+
